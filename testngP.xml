@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Parallel-Suite" parallel="tests" thread-count="2">
+
+	<listeners>
+		<listener class-name="listeners.ExtentTestListener" />
+	</listeners>
+
+
+	<!-- <test name="TC04_Permissions_Test">
+        <classes>
+            <class name="testCases.TC04_Permissions" />
+        </classes>
+    </test> -->
+
+
+	<test name="ChromeTest">
+		<parameter name="browser" value="chrome" />
+		<parameter name="username" value="Abhishek" />
+		<parameter name="password" value="Vidaabhi@123" />
+		<classes>
+			
+			<class name="testCases.TC05_RoamingSession" />
+			<!--<class name="testCases.TC03_Sessions" />-->
+			<!--<class name="testCases.TC05_RoamingSession" /> -->
+		</classes>
+	</test>
+
+
+	<test name="EdgeTest">
+		<parameter name="browser" value="edge" />
+		<parameter name="username" value="Automatic" />
+		<parameter name="password" value="Automatic@321" />
+		<classes>
+			<class name="testCases.TC04_Permissions" />
+			<!--<class name="testCases.TC02_BetaLogs" />-->
+		</classes>
+	</test>
+
+
+	<!--	<test name="TC01_Login_Test">
+		<parameter name="username" value="Abhishek" />
+		<parameter name="password" value="Vidaabhi@123" />
+		<classes>
+			<class name="testCases.TC01_Login" />
+		</classes>
+	</test>
+
+
+	<test name="TC02_BetaLogs_Test">
+		<parameter name="username" value="Automatic" />
+		<parameter name="password" value="Automatic@321" />
+		<classes>
+			<class name="testCases.TC02_BetaLogs" />
+		</classes>
+	</test> -->
+
+
+</suite>

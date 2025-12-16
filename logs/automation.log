@@ -1,0 +1,2217 @@
+2025-11-23 16:11:20 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 16:15:47 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 16:15:47 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 16:15:47 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 16:15:47 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 16:15:47 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 16:15:50 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 16:22:30 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 16:22:30 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 16:22:30 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 16:22:31 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 16:22:31 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 16:22:34 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 16:24:57 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 16:24:57 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 16:24:57 [TRACE] testCases.TC01_Login - Trace level logging
+2025-11-23 16:24:58 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 16:24:58 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 16:24:58 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 16:25:02 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 16:26:36 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 16:26:36 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 16:26:36 [TRACE] testCases.TC01_Login - Trace level logging
+2025-11-23 16:26:36 [DEBUG] testCases.TC01_Login - Debug level logging
+2025-11-23 16:26:37 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 16:26:37 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 16:26:37 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 16:26:40 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 16:27:24 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 16:27:24 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 16:27:24 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 16:27:24 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 16:27:25 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 16:27:27 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 16:28:59 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 16:28:59 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 16:28:59 [TRACE] testCases.TC01_Login - Trace level logging
+2025-11-23 16:28:59 [DEBUG] testCases.TC01_Login - Debug level logging
+2025-11-23 16:28:59 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 16:28:59 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 16:28:59 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 16:29:02 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 16:29:46 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 16:29:46 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 16:29:46 [DEBUG] testCases.TC01_Login - Debug level logging
+2025-11-23 16:29:46 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 16:29:47 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 16:29:47 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 16:29:49 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 16:49:04 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 16:49:04 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 16:49:04 [DEBUG] testCases.TC01_Login - Debug level logging
+2025-11-23 16:49:05 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 16:49:05 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 16:49:05 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 16:49:09 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 16:49:09 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-23 16:49:09 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 16:49:09 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-23 16:49:10 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-23 16:49:11 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-23 16:49:11 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-23 16:49:11 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-23 16:49:12 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-23 16:58:07 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 16:58:07 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 16:58:07 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 16:58:07 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 16:58:08 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 16:58:13 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 17:26:40 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 17:26:40 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 17:26:40 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 17:26:41 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 17:26:41 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 17:26:46 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 17:26:46 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:26:49 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-11-23 17:26:53 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:26:54 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-23 17:27:07 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-23 17:27:07 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:27:07 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-23 17:27:07 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-23 17:27:08 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-23 17:27:08 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-23 17:27:08 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-23 17:27:09 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-23 17:27:29 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:32:43 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 17:32:43 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 17:32:43 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 17:32:44 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 17:32:44 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 17:32:47 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 17:32:47 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:32:49 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-11-23 17:33:04 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:33:05 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-23 17:33:15 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:33:16 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-11-23 17:33:21 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-23 17:33:21 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:33:21 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-23 17:33:21 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-23 17:33:22 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-23 17:33:22 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-23 17:33:22 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-23 17:33:22 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-23 17:36:10 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 17:36:10 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 17:36:10 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 17:36:11 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 17:36:11 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 17:36:14 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 17:36:14 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:36:45 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 17:36:45 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 17:36:45 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 17:36:46 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 17:36:46 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 17:36:51 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 17:36:51 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:37:02 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:37:03 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-23 17:37:14 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:37:15 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-11-23 17:37:19 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-23 17:37:19 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:37:19 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-23 17:37:19 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-23 17:37:20 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-23 17:37:20 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-23 17:37:20 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-23 17:37:20 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-23 17:40:48 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 17:40:48 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 17:40:48 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 17:40:48 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 17:40:48 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 17:40:52 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 17:40:52 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:40:53 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-11-23 17:41:01 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:41:02 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-11-23 17:41:03 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:41:04 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-23 17:41:15 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-23 17:41:15 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 17:41:15 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-23 17:41:15 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-23 17:41:16 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-23 17:41:16 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-23 17:41:16 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-23 17:41:17 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-23 17:56:03 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 17:56:03 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 18:00:43 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 18:00:43 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 18:00:43 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 18:00:43 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 18:00:44 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 18:00:46 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 18:00:46 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-23 18:00:47 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 18:00:47 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-23 18:00:49 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-23 18:00:51 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-23 18:00:51 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-23 18:00:51 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-23 18:00:52 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-23 18:01:39 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 18:01:39 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 18:09:03 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 18:09:03 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 18:09:38 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 18:09:38 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 18:09:38 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 18:09:39 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 18:09:39 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 18:09:43 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 18:09:43 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 18:09:45 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-11-23 18:11:36 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 18:11:36 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 18:11:37 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 18:11:37 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 18:11:37 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 18:11:43 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 18:11:43 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 18:11:48 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-11-23 18:13:47 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 18:13:47 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 18:13:47 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 18:13:47 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 18:13:48 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 18:13:52 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 18:13:52 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-23 18:13:52 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 18:13:52 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-23 18:13:52 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-23 18:13:53 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-23 18:13:53 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-23 18:13:53 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-23 18:13:53 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-23 18:15:50 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 18:15:50 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 18:15:50 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 18:15:50 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 18:15:50 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 18:15:54 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 18:15:54 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 18:15:56 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-23 18:25:31 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 18:25:31 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 18:25:31 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 18:25:31 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 18:25:31 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 18:25:35 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 18:25:35 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-23 18:25:35 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 18:25:35 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-23 18:25:35 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-23 18:25:36 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-23 18:25:36 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-23 18:25:36 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-23 18:25:36 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-23 18:28:42 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 18:28:42 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 18:28:43 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 18:28:43 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 18:28:43 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 18:28:47 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 18:34:16 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 18:34:16 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 18:34:17 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 18:34:17 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 18:34:17 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 18:34:22 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 18:35:22 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 18:35:22 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 18:39:43 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 18:39:43 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 18:39:43 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 18:39:43 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 18:39:44 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 18:39:46 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 18:41:03 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 18:41:03 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 18:41:03 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 18:41:03 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 18:41:03 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 18:41:08 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 18:41:08 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 18:41:10 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-11-23 18:41:20 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 18:41:30 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 18:41:32 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-23 18:41:43 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-23 18:41:43 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 18:41:43 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-23 18:41:43 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-23 18:41:44 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-23 18:41:44 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-23 18:41:44 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-23 18:41:44 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-23 22:49:03 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 22:49:03 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 22:49:03 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 22:49:04 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 22:49:04 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 22:49:08 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 22:49:08 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 22:49:09 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-23 22:51:16 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 22:51:17 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 22:51:17 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 22:51:17 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 22:51:17 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 22:51:20 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 22:51:20 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 22:51:21 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-23 22:54:32 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 22:54:32 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 22:54:32 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 22:54:32 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 22:54:33 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 22:54:36 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 22:54:36 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 22:54:38 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-23 23:04:39 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 23:04:39 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 23:04:39 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 23:04:39 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 23:04:39 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 23:04:42 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 23:04:42 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:04:43 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-23 23:06:11 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 23:06:11 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 23:06:12 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 23:06:12 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 23:06:12 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 23:06:17 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 23:06:17 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:06:19 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-11-23 23:07:37 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 23:07:37 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 23:07:37 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 23:07:37 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 23:07:37 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 23:07:42 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 23:07:43 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:07:47 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-11-23 23:07:52 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:08:03 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:08:05 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-23 23:08:16 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-23 23:08:16 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:08:16 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-23 23:08:16 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-23 23:08:17 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-23 23:08:17 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-23 23:08:17 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-23 23:08:18 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-23 23:16:31 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 23:16:31 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 23:16:31 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 23:16:32 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 23:16:32 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 23:16:36 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 23:16:36 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-23 23:16:36 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:16:36 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-23 23:16:36 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-23 23:16:38 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-23 23:16:38 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-23 23:16:38 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-23 23:16:38 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-23 23:17:55 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 23:17:55 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 23:17:55 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 23:17:55 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 23:17:55 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 23:17:59 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 23:17:59 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:18:01 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-11-23 23:18:06 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:18:07 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-11-23 23:18:09 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:18:10 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-23 23:18:21 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-23 23:18:21 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:18:21 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-23 23:18:21 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-23 23:18:22 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-23 23:18:22 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-23 23:18:22 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-23 23:18:23 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-23 23:20:35 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 23:20:35 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 23:20:35 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:20:35 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-23 23:20:35 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:20:35 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-23 23:25:05 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 23:25:05 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 23:25:05 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-23 23:25:05 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-23 23:25:05 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-23 23:25:08 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-23 23:25:13 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:28:13 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-23 23:28:13 [INFO] testCases.TC01_Login - Login test started
+2025-11-23 23:28:13 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:28:13 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-23 23:28:13 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-23 23:28:13 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-24 07:38:06 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-24 07:38:06 [INFO] testCases.TC01_Login - Login test started
+2025-11-24 07:38:06 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-24 07:38:06 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-24 07:38:06 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-24 07:38:09 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-24 07:38:09 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 07:38:12 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-11-24 07:38:17 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 07:38:28 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 07:38:29 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-24 07:38:39 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-24 07:38:39 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 07:38:39 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-24 07:38:39 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-24 07:38:40 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-24 07:38:40 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-24 07:38:40 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-24 07:38:40 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-24 07:42:22 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-24 07:42:22 [INFO] testCases.TC01_Login - Login test started
+2025-11-24 07:42:22 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-24 07:42:22 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-24 07:42:22 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-24 07:42:26 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-24 07:42:26 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 07:42:28 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-11-24 07:42:32 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 07:42:33 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-11-24 07:42:48 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 07:42:49 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-24 07:42:58 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-24 07:42:58 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 07:42:58 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-24 07:42:58 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-24 07:43:00 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-24 07:43:00 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-24 07:43:00 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-24 07:43:00 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-24 07:47:52 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-24 07:47:52 [INFO] testCases.TC01_Login - Login test started
+2025-11-24 07:47:52 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 07:47:52 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-24 07:47:52 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 07:47:52 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-24 08:02:48 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-24 08:02:48 [INFO] testCases.TC01_Login - Login test started
+2025-11-24 08:02:48 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-24 08:02:48 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-24 08:02:49 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-24 08:02:52 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-24 08:02:52 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:02:55 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-24 08:03:05 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-24 08:03:05 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:03:05 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-24 08:03:05 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-24 08:03:06 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-24 08:03:06 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-24 08:03:06 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-24 08:03:06 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-24 08:09:42 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-24 08:09:42 [INFO] testCases.TC01_Login - Login test started
+2025-11-24 08:09:42 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-24 08:09:42 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-24 08:09:42 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-24 08:09:46 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-24 08:09:46 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:09:47 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-24 08:10:46 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-24 08:10:46 [INFO] testCases.TC01_Login - Login test started
+2025-11-24 08:10:46 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-24 08:10:46 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-24 08:10:46 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-24 08:10:51 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-24 08:10:51 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:10:54 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-11-24 08:11:01 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:11:01 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-24 08:12:30 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-24 08:12:30 [INFO] testCases.TC01_Login - Login test started
+2025-11-24 08:12:30 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-24 08:12:30 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-24 08:12:30 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-24 08:12:33 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-24 08:12:33 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:12:34 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-24 08:15:50 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-24 08:15:50 [INFO] testCases.TC01_Login - Login test started
+2025-11-24 08:15:51 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-24 08:15:51 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-24 08:15:51 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-24 08:15:54 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-24 08:15:54 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:15:55 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-24 08:22:45 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-24 08:22:45 [INFO] testCases.TC01_Login - Login test started
+2025-11-24 08:22:45 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-24 08:22:45 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-24 08:22:45 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-24 08:22:48 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-24 08:22:48 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-24 08:22:48 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:22:48 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:22:48 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:22:48 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:22:48 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-24 08:22:59 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-11-24 08:23:15 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-24 08:23:15 [INFO] testCases.TC01_Login - Login test started
+2025-11-24 08:23:15 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-24 08:23:15 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-24 08:23:15 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-24 08:23:17 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-24 08:23:17 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-24 08:23:17 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:23:17 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:23:17 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:23:17 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-24 08:23:17 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:23:21 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-11-24 08:23:22 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-11-24 08:23:26 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-11-24 08:23:26 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-11-24 08:23:26 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-11-24 08:23:36 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-11-24 08:24:10 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-11-24 08:24:10 [INFO] testCases.TC01_Login - Login test started
+2025-11-24 08:24:10 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-11-24 08:24:10 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-11-24 08:24:10 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-11-24 08:24:13 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-11-24 08:24:13 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:24:13 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:24:13 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:24:13 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-11-24 08:24:13 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-11-24 08:24:13 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-11-24 08:24:19 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-11-24 08:24:21 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-09 19:30:15 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-09 19:30:15 [INFO] testCases.TC01_Login - Login test started
+2025-12-09 19:30:15 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-09 19:30:15 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaadmin@123
+2025-12-09 19:30:15 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-09 19:31:05 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-09 19:31:05 [INFO] testCases.TC01_Login - Login test started
+2025-12-09 19:31:06 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-09 19:31:06 [INFO] pageObjects.LoginPage - Attempting login with password: Abhi@1234
+2025-12-09 19:31:06 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-09 19:31:08 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-09 19:31:08 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-09 19:31:09 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-09 19:31:48 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-09 19:31:48 [INFO] testCases.TC01_Login - Login test started
+2025-12-09 19:31:48 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-09 19:31:48 [INFO] pageObjects.LoginPage - Attempting login with password: Abhi@1234
+2025-12-09 19:31:48 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-09 19:31:50 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-09 19:31:50 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-09 19:31:51 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-09 21:57:53 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-09 21:57:53 [INFO] testCases.TC01_Login - Login test started
+2025-12-09 21:57:54 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-09 21:57:55 [INFO] pageObjects.LoginPage - Attempting login with password: Abhi@1234
+2025-12-09 21:57:55 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-09 21:57:57 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-09 21:57:57 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-09 21:57:58 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-09 21:58:55 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-09 21:58:55 [INFO] testCases.TC01_Login - Login test started
+2025-12-09 21:58:56 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-09 21:58:56 [INFO] pageObjects.LoginPage - Attempting login with password: Abhi@1234
+2025-12-09 21:58:56 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-09 21:58:59 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-09 21:58:59 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-09 21:58:59 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-09 22:02:29 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-09 22:02:29 [INFO] testCases.TC01_Login - Login test started
+2025-12-09 22:02:29 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-09 22:02:29 [INFO] pageObjects.LoginPage - Attempting login with password: Abhi@1234
+2025-12-09 22:02:29 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-09 22:02:34 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-09 22:02:34 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-09 22:02:46 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-09 22:02:47 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-09 22:03:38 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-09 22:03:38 [INFO] testCases.TC01_Login - Login test started
+2025-12-09 22:03:38 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-09 22:03:38 [INFO] pageObjects.LoginPage - Attempting login with password: Abhi@1234
+2025-12-09 22:03:39 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-09 22:03:41 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-09 22:03:41 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-09 22:03:53 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-09 22:04:28 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-09 22:04:28 [INFO] testCases.TC01_Login - Login test started
+2025-12-09 22:04:29 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-09 22:04:29 [INFO] pageObjects.LoginPage - Attempting login with password: Abhi@1234
+2025-12-09 22:04:29 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-09 22:04:32 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-09 22:04:32 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-09 22:04:33 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-09 22:04:45 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-09 22:04:46 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-09 22:11:09 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-09 22:11:09 [INFO] testCases.TC01_Login - Login test started
+2025-12-09 22:11:10 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-09 22:11:10 [INFO] pageObjects.LoginPage - Attempting login with password: Abhi@1234
+2025-12-09 22:11:10 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-09 22:11:13 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-09 22:11:13 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-09 22:11:14 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-09 22:11:26 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-09 22:11:27 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-10 06:55:13 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-10 06:55:13 [INFO] testCases.TC01_Login - Login test started
+2025-12-10 06:55:13 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-10 06:55:13 [INFO] pageObjects.LoginPage - Attempting login with password: Abhishek@123
+2025-12-10 06:55:13 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-10 06:55:15 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-10 06:55:15 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-10 06:55:15 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 06:55:15 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 06:55:15 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 06:55:15 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 06:55:15 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-10 06:55:16 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-10 06:55:16 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-10 06:55:16 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-10 07:01:13 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-10 07:01:13 [INFO] testCases.TC01_Login - Login test started
+2025-12-10 07:01:13 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-10 07:01:13 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-10 07:01:13 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-10 07:01:17 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-10 07:01:17 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-10 07:01:17 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 07:01:17 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 07:01:17 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 07:01:17 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 07:01:17 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-10 07:01:18 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-10 07:01:18 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-10 07:01:19 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-10 07:01:19 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-10 07:01:19 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-10 07:01:19 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-10 07:01:20 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-10 07:01:20 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-10 07:01:20 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-10 07:01:20 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-10 07:01:21 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-10 07:07:45 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-10 07:07:45 [INFO] testCases.TC01_Login - Login test started
+2025-12-10 07:07:45 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-10 07:07:45 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-10 07:07:45 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-10 07:07:49 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-10 07:07:49 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 07:07:51 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-10 07:07:58 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 07:07:59 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-10 07:25:55 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-10 07:25:55 [INFO] testCases.TC01_Login - Login test started
+2025-12-10 07:25:55 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-10 07:25:55 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-10 07:25:55 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-10 07:25:57 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-10 07:25:57 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 07:26:00 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-10 07:26:03 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 07:26:03 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-10 07:32:44 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-10 07:32:44 [INFO] testCases.TC01_Login - Login test started
+2025-12-10 07:32:44 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-10 07:32:44 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-10 07:32:45 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-10 07:32:49 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-10 07:32:49 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 07:32:52 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-10 07:33:03 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-10 07:33:03 [INFO] testCases.TC01_Login - Login test started
+2025-12-10 07:33:03 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-10 07:33:03 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-10 07:33:03 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-10 07:33:05 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-10 07:33:05 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 07:33:06 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-10 07:43:04 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-10 07:43:04 [INFO] testCases.TC01_Login - Login test started
+2025-12-10 07:43:04 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-10 07:43:04 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-10 07:43:05 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-10 07:43:08 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-10 07:43:08 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 07:43:09 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-10 07:43:14 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 07:43:15 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-10 07:43:38 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-10 07:43:38 [INFO] testCases.TC01_Login - Login test started
+2025-12-10 07:43:38 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-10 07:43:38 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-10 07:43:38 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-10 07:43:41 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-10 07:43:41 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 07:43:43 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-10 08:28:37 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-10 08:28:37 [INFO] testCases.TC01_Login - Login test started
+2025-12-10 08:28:37 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-10 08:28:37 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-10 08:28:37 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-10 08:28:40 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-10 08:28:40 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-10 08:28:40 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:28:40 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-10 08:28:40 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-10 08:28:41 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-10 08:28:41 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-10 08:28:41 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-10 08:28:41 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-10 08:28:46 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-10 08:28:46 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-10 08:28:46 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-10 08:28:46 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-10 08:28:47 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-10 08:29:37 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-10 08:29:37 [INFO] testCases.TC01_Login - Login test started
+2025-12-10 08:29:38 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-10 08:29:38 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-10 08:29:38 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-10 08:29:41 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-10 08:29:41 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:29:41 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:29:41 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-10 08:29:41 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:29:41 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:29:41 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-10 08:29:49 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-10 08:31:15 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:31:49 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-10 08:31:49 [INFO] testCases.TC01_Login - Login test started
+2025-12-10 08:31:49 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-10 08:31:49 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-10 08:31:49 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-10 08:31:54 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-10 08:31:54 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:31:56 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-10 08:34:36 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-10 08:34:36 [INFO] testCases.TC01_Login - Login test started
+2025-12-10 08:34:36 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-10 08:34:36 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-10 08:34:36 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-10 08:34:39 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-10 08:34:39 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:34:43 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-10 08:34:49 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:35:00 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-10 08:35:00 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:35:00 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-10 08:35:00 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-10 08:35:02 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-10 08:35:02 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-10 08:35:02 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-10 08:35:02 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-10 08:35:03 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-10 08:35:03 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-10 08:35:03 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-10 08:35:03 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-10 08:35:04 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-10 08:35:04 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:35:05 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-10 08:42:33 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:42:33 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:42:34 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-10 08:42:34 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:42:34 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-10 08:43:01 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 08:43:02 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-10 08:43:02 [INFO] testCases.TC01_Login - Login test started
+2025-12-10 22:51:44 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 22:51:44 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-10 22:51:44 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 22:51:44 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-10 22:51:45 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-10 22:51:45 [INFO] testCases.TC01_Login - Login test started
+2025-12-10 22:51:46 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-10 22:51:46 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 06:30:49 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 06:30:49 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 06:31:06 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 06:31:06 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 06:31:06 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-11 06:31:06 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 06:31:06 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-11 06:31:24 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 06:31:46 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 06:31:46 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 06:32:01 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 06:32:01 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 06:32:04 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-11 06:32:04 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 06:32:04 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-11 06:32:15 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 06:32:25 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 06:32:30 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 06:52:57 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 06:52:57 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 06:52:57 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 06:52:57 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 06:52:57 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 06:53:00 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-11 06:53:00 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 06:53:04 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-11 06:53:10 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 06:53:11 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-11 06:55:54 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 06:55:54 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 06:55:54 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 06:55:54 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 06:55:54 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 06:55:58 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-11 06:56:02 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 06:57:00 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 06:57:00 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 06:57:01 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 06:57:01 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 06:57:01 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 06:57:05 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-11 06:57:05 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 06:57:06 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-11 06:57:16 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 06:57:17 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-11 07:22:41 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 07:22:41 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 07:22:41 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 07:22:41 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 07:22:41 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 07:22:45 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-11 07:22:45 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 07:22:46 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-11 07:22:55 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 07:22:56 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-11 07:26:31 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 07:26:31 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 07:26:40 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 07:26:40 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 07:26:41 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-11 07:26:41 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 07:26:41 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-11 07:26:46 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 07:29:39 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-11 07:29:39 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 07:29:39 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-11 07:29:40 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 07:29:40 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 07:55:29 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 07:55:29 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 07:55:29 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 07:55:29 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-11 07:55:29 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 07:55:29 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-11 07:55:30 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 07:55:30 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 07:56:13 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 07:56:53 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 07:56:55 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 07:57:51 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 07:57:51 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 07:57:51 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 07:57:51 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 07:57:51 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 07:57:51 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-11 07:57:51 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 07:57:51 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-11 07:57:59 [INFO] testCases.TC01_Login - Login test executed successfully
+2025-12-11 07:58:02 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 08:13:01 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 08:13:01 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 08:13:01 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 08:13:01 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 08:13:15 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 08:13:15 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 08:13:15 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 08:13:36 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 08:13:36 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 08:13:36 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 08:13:36 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 08:13:37 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 08:13:37 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 08:13:37 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 08:13:37 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 08:13:59 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-11 08:13:59 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 08:13:59 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-11 08:14:01 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 08:14:01 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 08:14:14 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 08:14:14 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 08:14:14 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 08:14:15 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 08:14:17 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 08:14:18 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-11 08:15:22 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 08:15:22 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 08:15:22 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 08:15:22 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 08:15:23 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 08:15:23 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 08:15:23 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 08:15:23 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 08:15:23 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 08:15:23 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 08:15:23 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 08:15:23 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 08:15:30 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-11 08:15:30 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 08:15:30 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-11 08:15:31 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-11 08:15:31 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 08:15:32 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-11 08:15:32 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-11 08:15:32 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-11 08:15:32 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 08:15:32 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 08:15:32 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-11 08:15:32 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-11 08:15:32 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-11 08:15:32 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-11 08:15:32 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-11 08:15:35 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-11 08:15:38 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 08:15:39 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 08:15:39 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 08:15:39 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 08:15:48 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 08:15:51 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-11 08:15:51 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 08:15:51 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 08:15:51 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 08:15:52 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 08:15:55 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 08:15:57 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-11 08:17:14 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 08:17:14 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 08:17:14 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 08:17:14 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 08:17:17 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 08:17:21 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-11 08:17:30 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 08:17:30 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 08:17:30 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 08:17:30 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 08:17:32 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 08:17:33 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-11 23:06:19 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:06:20 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:06:20 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:06:20 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:06:20 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:06:20 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:06:20 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:06:21 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:06:28 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:06:28 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 23:06:30 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-11 23:06:30 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:06:30 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-11 23:06:31 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-11 23:06:34 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-11 23:06:34 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-11 23:06:34 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-11 23:06:34 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-11 23:06:35 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-11 23:06:35 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-11 23:06:35 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-11 23:06:35 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-11 23:06:37 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-11 23:06:46 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:06:46 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:06:47 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:06:47 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:06:47 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:06:47 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:06:47 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:06:47 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:06:54 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:06:55 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:06:57 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-11 23:07:10 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:07:10 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:07:10 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:07:10 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:07:17 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:07:18 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-11 23:07:49 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:07:50 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:07:50 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:07:50 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:07:50 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:07:50 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:07:50 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:07:50 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:07:57 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:07:57 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 23:07:58 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-11 23:07:58 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:07:58 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-11 23:07:59 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-11 23:08:00 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-11 23:08:00 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-11 23:08:00 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-11 23:08:01 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-11 23:08:01 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-11 23:08:01 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-11 23:08:01 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-11 23:08:01 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-11 23:08:07 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-11 23:08:17 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:08:17 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:08:18 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:08:18 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:08:18 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:08:18 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:08:18 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:08:19 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:08:24 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:08:25 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:08:27 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-11 23:08:40 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:08:41 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:08:41 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:08:41 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:08:52 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:08:53 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-11 23:12:13 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:12:13 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:12:13 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:12:13 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:12:13 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:12:13 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:12:14 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:12:14 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:12:19 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:12:19 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 23:12:19 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-11 23:12:19 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:12:19 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-11 23:12:20 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-11 23:12:23 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-11 23:12:23 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-11 23:12:23 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-11 23:12:24 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-11 23:12:25 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-11 23:12:25 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-11 23:12:25 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-11 23:12:25 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-11 23:12:28 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-11 23:12:35 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:12:36 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:12:36 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:12:36 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:12:36 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:12:37 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:12:37 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:12:37 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:12:43 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:12:43 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:12:46 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-11 23:12:59 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:12:59 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:12:59 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:12:59 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:13:07 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:13:09 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-11 23:13:56 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:13:56 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:13:56 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:13:57 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:13:57 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:13:57 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:13:57 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:13:57 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:14:02 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:14:02 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 23:14:03 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-11 23:14:03 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:14:03 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-11 23:14:22 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:14:22 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:14:22 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:14:22 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:14:28 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:14:30 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:14:30 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:14:31 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:14:31 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:14:35 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:14:40 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-11 23:14:48 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:14:49 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:14:49 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:14:49 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:14:55 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:14:57 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-11 23:16:20 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:16:20 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:16:20 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:16:20 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:16:20 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:16:20 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:16:25 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:16:25 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:16:25 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:16:26 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:16:26 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:16:26 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:16:30 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:16:31 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:16:31 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:17:02 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:17:02 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:17:02 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:17:02 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:17:02 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:17:02 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:17:09 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:17:09 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:17:10 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:17:10 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:17:10 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:17:10 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:17:14 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:17:14 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:17:15 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:23:58 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:23:58 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:23:59 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:23:59 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:23:59 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:23:59 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:23:59 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:24:03 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:24:03 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 23:24:04 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:24:06 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:24:06 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:24:11 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:24:11 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:24:11 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:24:16 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:24:16 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:24:16 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:25:15 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:25:15 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:25:16 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:25:16 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:25:16 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:25:16 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:25:22 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:25:22 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:25:22 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:25:22 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:25:22 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:25:22 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:25:27 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:25:27 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:25:27 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:26:08 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:26:08 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:26:11 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:26:11 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:26:11 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:26:11 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:26:11 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:26:11 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:26:19 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:26:19 [INFO] testCases.TC01_Login - Login test started
+2025-12-11 23:26:35 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:26:36 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:26:36 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:26:36 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:26:38 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:26:39 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:26:39 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:26:39 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:26:40 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:26:42 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-11 23:26:45 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:26:47 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-11 23:27:00 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-11 23:27:00 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-11 23:27:00 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-11 23:27:00 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-11 23:27:08 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-11 23:27:10 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-12 06:55:59 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 06:56:04 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 06:56:10 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 06:56:24 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 06:56:27 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 06:56:31 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 06:56:31 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 06:56:32 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 06:56:32 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 06:56:33 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 06:56:35 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 06:57:28 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 06:58:07 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 06:58:07 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 06:58:08 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 06:58:13 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 06:58:13 [INFO] testCases.TC01_Login - Login test started
+2025-12-12 06:58:21 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 06:58:21 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 06:58:22 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 06:58:22 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 06:58:26 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-12 06:58:26 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 06:58:26 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-12 06:58:27 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-12 06:58:28 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-12 06:58:28 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-12 06:58:28 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-12 06:58:29 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-12 06:58:29 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-12 06:58:29 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-12 06:58:29 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-12 06:58:29 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-12 06:58:31 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-12 06:58:34 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 06:58:34 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 06:58:34 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 06:58:34 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 06:58:38 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 06:58:39 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 06:58:39 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 06:58:39 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 06:58:39 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 06:58:58 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 06:58:59 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-12 06:58:59 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 06:59:00 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 06:59:00 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 06:59:00 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 06:59:11 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 06:59:13 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-12 07:00:07 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:00:07 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:00:07 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:00:07 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:00:07 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:00:07 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:00:08 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:00:08 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:00:14 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-12 07:00:14 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 07:00:14 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-12 07:00:16 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-12 07:00:19 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-12 07:00:19 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-12 07:00:19 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-12 07:00:20 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-12 07:00:21 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-12 07:00:21 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-12 07:00:21 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-12 07:00:21 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-12 07:00:26 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-12 07:00:32 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:00:34 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:00:34 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:00:35 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:00:35 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:00:36 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:00:36 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:00:36 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:00:38 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 07:00:41 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 07:00:44 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-12 07:00:55 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:00:55 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:00:55 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:00:55 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:01:02 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 07:01:05 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-12 07:04:33 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:04:33 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:04:34 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:04:34 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:05:34 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 07:05:48 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-12 07:09:27 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:10:08 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:10:09 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:10:09 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:10:10 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:10:10 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:10:11 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:10:11 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:11:09 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:11:09 [INFO] testCases.TC01_Login - Login test started
+2025-12-12 07:11:11 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:11:12 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:11:12 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:11:12 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:11:21 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 07:11:25 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-12 07:12:04 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:12:04 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:12:04 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:12:05 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:12:05 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:12:05 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:12:05 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:12:06 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:12:11 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-12 07:12:11 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 07:12:11 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-12 07:12:12 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-12 07:12:15 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-12 07:12:15 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-12 07:12:15 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-12 07:12:15 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-12 07:12:20 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-12 07:12:20 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-12 07:12:20 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-12 07:12:20 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-12 07:12:22 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-12 07:13:01 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:13:01 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:13:01 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:13:01 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:13:34 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 07:13:36 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-12 07:39:10 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:39:10 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:39:10 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:39:10 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:39:10 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:39:10 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:45:36 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:45:36 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:45:36 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:45:36 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:45:36 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:45:36 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:45:37 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:45:37 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:45:55 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 07:45:57 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-12 07:45:58 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-12 07:45:58 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 07:45:58 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-12 07:55:04 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:55:04 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:55:04 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:55:04 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:55:04 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:55:05 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:55:05 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:55:05 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:55:10 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 07:55:11 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-12 07:55:17 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:55:18 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:55:18 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:55:18 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:55:35 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 07:55:39 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-12 07:56:40 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:56:40 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:56:40 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:56:41 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:56:41 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:56:41 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:56:41 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:56:41 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:57:15 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 07:57:17 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-12 07:57:18 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:57:18 [INFO] testCases.TC01_Login - Login test started
+2025-12-12 07:57:42 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 07:57:42 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 07:57:42 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 07:57:43 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 07:58:01 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 07:58:01 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-12 08:02:29 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 08:02:29 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 08:02:29 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 08:02:29 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 08:02:29 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 08:02:29 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 08:03:23 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 08:03:23 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 08:03:25 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-12 08:03:42 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 08:03:42 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 08:03:42 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 08:03:42 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 08:03:54 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 08:03:56 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-12 08:06:04 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 08:06:04 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 08:06:04 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 08:06:04 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 08:06:04 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 08:06:04 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 08:06:40 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 08:06:41 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-12 08:08:19 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 08:08:19 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 08:08:19 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 08:08:20 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 08:08:20 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 08:08:20 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 08:08:20 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 08:08:20 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 08:08:49 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 08:08:50 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-12 08:08:51 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 08:10:31 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-12 08:10:31 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-12 08:10:31 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-12 08:10:31 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-12 08:10:43 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-12 08:10:46 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 08:29:29 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 08:29:29 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 08:29:29 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 08:29:29 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 08:29:34 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 08:29:36 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 08:30:05 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 08:30:05 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 08:30:05 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 08:30:06 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 08:30:12 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 08:30:13 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 08:30:45 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 08:30:45 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 08:30:45 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 08:30:45 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 08:30:45 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 08:30:45 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 08:30:46 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 08:30:46 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 08:30:51 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 08:30:52 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 20:32:50 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 20:32:50 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 20:32:50 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:32:50 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:32:50 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:32:50 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:32:51 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:32:51 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:32:55 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:32:57 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 20:33:37 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:33:37 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 20:33:37 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:33:37 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:33:38 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:33:38 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:33:42 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:33:42 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:33:43 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 20:34:47 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:34:47 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 20:34:47 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:34:48 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:34:48 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:34:48 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:34:52 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:34:53 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:34:55 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 20:35:32 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:35:32 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 20:35:32 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:35:32 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:35:33 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:35:33 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:35:33 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:35:39 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:35:42 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 20:37:11 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 20:37:11 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:37:11 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:37:11 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:37:17 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:37:19 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 20:37:55 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 20:37:55 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:37:55 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:37:56 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:38:01 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:38:02 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 20:40:03 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 20:40:03 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 20:40:04 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:40:04 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:40:04 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:40:04 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:40:04 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:40:04 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:40:09 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:40:11 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 20:42:29 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:42:29 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 20:42:29 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:42:29 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:42:29 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:42:38 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:42:40 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:42:41 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 20:43:18 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:43:18 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 20:43:18 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:43:18 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:43:18 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:43:18 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:43:22 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:43:24 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 20:43:26 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:43:28 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 20:44:15 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:44:15 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 20:44:15 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:44:15 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:44:15 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:44:16 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:44:19 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:44:20 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 20:44:54 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:44:54 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 20:44:54 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:44:54 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:44:54 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:44:55 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:45:00 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:45:02 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 20:45:04 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 20:56:07 [INFO] pageObjects.LoginPage - Attempting login with password: pwd1
+2025-12-13 20:56:07 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 20:56:07 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 20:56:07 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 20:56:07 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 20:56:08 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 21:00:05 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 21:00:06 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 21:00:06 [INFO] pageObjects.LoginPage - Attempting login with userID: Automation
+2025-12-13 21:00:06 [INFO] pageObjects.LoginPage - Attempting login with password: Automation@123
+2025-12-13 21:00:06 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 21:00:25 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 21:00:26 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 21:00:27 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 21:00:28 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 21:08:55 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 21:09:10 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 21:09:10 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-13 21:09:10 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 21:09:10 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-13 21:09:10 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 21:09:10 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 21:09:43 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 21:09:45 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 21:09:45 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 21:09:47 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 21:10:48 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-13 21:10:49 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 21:10:49 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 21:10:49 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 21:10:49 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 21:10:49 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 21:10:59 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 21:11:01 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 21:11:02 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 21:11:04 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 21:55:11 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 21:55:11 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 21:55:12 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 21:55:12 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-13 21:55:12 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-13 21:55:12 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 21:55:12 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 21:55:12 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 21:55:18 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 21:55:18 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 21:55:20 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 21:55:20 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 21:55:46 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 21:55:46 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 21:55:46 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-13 21:55:46 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 21:55:46 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-13 21:55:46 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 21:55:46 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 21:55:46 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 21:55:50 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-13 21:55:50 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 21:55:50 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-13 21:55:50 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 21:55:50 [INFO] testCases.TC01_Login - Login test started
+2025-12-13 21:55:51 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-13 21:55:54 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-13 21:55:54 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-13 21:55:54 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-13 21:55:54 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-13 21:55:54 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-13 21:55:54 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-13 21:55:54 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-13 21:55:54 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-13 21:55:56 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-13 22:12:46 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:12:46 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-13 22:12:46 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-13 22:12:46 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:12:47 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:12:47 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 22:12:47 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 22:12:47 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:13:31 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 22:13:33 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 22:13:41 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 22:13:49 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 22:14:05 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:14:05 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 22:14:05 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 22:14:05 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:15:25 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:15:25 [INFO] testCases.TC01_Login - Login test started
+2025-12-13 22:15:59 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:15:59 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-13 22:15:59 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-13 22:15:59 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:18:25 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:18:26 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 22:18:26 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:18:26 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 22:18:26 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-13 22:18:26 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:18:26 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-13 22:18:26 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:18:36 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 22:18:57 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 22:21:31 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:21:32 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:39:06 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:39:06 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 22:39:07 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 22:39:07 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:39:37 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 22:39:39 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 22:39:54 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:39:54 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-13 22:39:54 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-13 22:41:13 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 22:41:13 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:41:13 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 22:41:13 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-13 22:41:14 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:41:14 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-13 22:41:14 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:41:23 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 22:41:25 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 22:41:25 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 22:41:26 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 22:43:41 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-13 22:43:41 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:43:41 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:43:41 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 22:43:41 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 22:43:41 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:43:50 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 22:43:51 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 22:43:51 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 22:43:52 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 22:46:29 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:46:29 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-13 22:46:29 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-13 22:46:29 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:46:36 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:46:36 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 22:46:36 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 22:46:36 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:49:52 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-13 22:49:52 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:49:52 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:49:52 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 22:49:52 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 22:49:52 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:49:56 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 22:49:57 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 22:49:59 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 22:50:00 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 22:50:34 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:50:34 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:50:34 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-13 22:50:34 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 22:50:34 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 22:50:34 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-13 22:50:35 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:50:35 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:50:39 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 22:50:40 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 22:50:40 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 22:50:41 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 22:50:57 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 22:50:57 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 22:50:57 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 22:50:57 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 22:51:02 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 22:51:02 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 23:13:36 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 23:13:36 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 23:13:36 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 23:13:36 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-13 23:13:37 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-13 23:13:37 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 23:13:42 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 23:13:43 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-13 23:13:44 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 23:13:45 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-13 23:13:59 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-13 23:13:59 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-13 23:13:59 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-13 23:13:59 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-13 23:14:05 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-13 23:14:06 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 13:07:40 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 13:07:40 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 13:07:40 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 13:07:40 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 13:07:40 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 13:07:41 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 13:08:04 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 13:08:06 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 13:08:12 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-14 13:08:13 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 13:08:43 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 13:08:43 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 13:08:43 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 13:08:44 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 13:09:07 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 13:09:08 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 13:15:00 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 13:15:00 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 13:15:00 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 13:15:01 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 13:15:01 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 13:15:01 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 13:15:14 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 13:15:14 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 13:15:15 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 13:15:16 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-14 13:15:36 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 13:15:36 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 13:15:36 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 13:15:36 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 13:15:43 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 13:15:44 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 15:45:39 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 15:45:40 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 15:45:40 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 15:45:40 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 15:45:40 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 15:45:40 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 15:45:41 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 15:47:20 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 15:47:20 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 15:47:20 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 15:47:21 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 15:47:54 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 15:47:57 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 15:51:55 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 15:51:55 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 15:51:56 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 16:06:31 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 16:06:31 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 16:06:32 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 16:06:32 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 16:06:45 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 16:06:45 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 16:06:46 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 16:07:01 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 16:07:02 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 16:07:02 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 16:36:12 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 16:36:12 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 16:36:13 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 16:36:13 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 16:37:44 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 16:37:44 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 16:37:44 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 16:37:45 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 16:37:45 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 16:37:46 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 16:37:46 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 16:38:26 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 16:38:29 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-14 16:39:38 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 16:39:39 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 16:39:40 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 16:39:41 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 16:40:12 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 16:40:15 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-14 16:40:53 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 16:40:54 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 16:40:55 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 16:41:42 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 16:41:43 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 16:41:44 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 16:41:56 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 16:41:57 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 16:41:58 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 16:42:10 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 16:42:10 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 16:42:11 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 16:43:19 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 16:43:19 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 16:43:20 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 16:43:33 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 16:43:34 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 16:43:35 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 16:43:36 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 16:44:21 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 16:44:26 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 16:45:10 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 16:45:10 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 16:45:11 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 19:14:47 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 19:14:47 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 19:14:48 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 19:15:06 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 19:15:06 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 19:15:07 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 19:15:22 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 19:15:22 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 19:15:23 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 19:18:32 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 19:18:32 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 19:18:32 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 19:18:33 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 19:18:33 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 19:18:46 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 19:18:49 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-14 19:25:04 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 19:25:05 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 19:25:05 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 19:25:05 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 19:25:05 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 19:25:06 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 19:25:06 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 19:25:16 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 19:25:19 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-14 19:28:41 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 19:28:42 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 19:28:42 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 19:28:42 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 19:28:42 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 19:28:43 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 19:29:48 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 19:29:54 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 19:30:37 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 19:37:00 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 19:37:00 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 19:37:01 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 19:37:01 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 19:37:01 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 19:37:01 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 19:37:01 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 19:37:09 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 19:37:11 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-14 19:53:48 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 19:53:49 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 19:53:49 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 19:53:49 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 19:53:49 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 19:53:49 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 19:53:50 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 19:53:57 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 19:54:02 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-14 19:54:14 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 19:58:37 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 19:58:38 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 19:58:38 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 19:58:39 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 19:58:39 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 19:58:40 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 19:58:53 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 19:58:57 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:23:38 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 22:23:38 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:23:39 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:23:39 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 22:23:40 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:23:41 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:23:43 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:23:48 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:25:53 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:25:53 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 22:25:54 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 22:25:54 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:25:54 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:25:55 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:26:01 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:30:56 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:30:56 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:30:58 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:31:00 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 22:31:01 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 22:31:02 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:31:07 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:31:11 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:34:18 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:34:18 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 22:34:18 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:34:19 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:34:24 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:37:19 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:37:20 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 22:37:21 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:37:22 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:37:29 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:37:29 [INFO] testCases.TC01_Login - Login test started
+2025-12-14 22:39:23 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:39:24 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 22:39:24 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:39:25 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:39:28 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:39:28 [INFO] testCases.TC01_Login - Login test started
+2025-12-14 22:41:00 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:41:01 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 22:41:01 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:41:02 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:41:09 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:51:17 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:51:17 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 22:51:17 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:51:17 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:51:20 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:52:09 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:52:10 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 22:52:10 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:52:10 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:52:12 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:53:15 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:53:15 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 22:53:15 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:53:15 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:53:18 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:53:19 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 22:53:45 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:53:45 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 22:53:45 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:53:46 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:53:49 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:53:50 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 22:54:29 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:54:29 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 22:54:29 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:54:30 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:54:33 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:55:49 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:55:49 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 22:55:49 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:55:49 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:55:52 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:56:29 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:56:29 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 22:56:30 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:56:30 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:56:32 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 22:57:37 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 22:57:38 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 22:57:38 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 22:57:38 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 22:57:43 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:05:49 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:05:49 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 23:05:49 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 23:05:49 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:05:52 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:07:05 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:07:05 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 23:07:05 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 23:07:05 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:07:09 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:11:41 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:11:41 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 23:11:41 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 23:11:41 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:11:44 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:11:50 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 23:12:15 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:12:15 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 23:12:15 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 23:12:15 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:12:19 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:12:25 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 23:12:44 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:12:45 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 23:12:45 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 23:12:45 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:12:47 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:12:52 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 23:14:52 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:14:52 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 23:14:52 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 23:14:53 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:14:56 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:15:01 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:15:01 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 23:15:02 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 23:15:02 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:15:02 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 23:15:06 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:15:08 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-14 23:15:55 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:15:56 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 23:15:56 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 23:15:56 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:15:58 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:16:03 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 23:16:17 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:16:17 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 23:16:17 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 23:16:18 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:16:20 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:16:21 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-14 23:19:24 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:19:25 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 23:19:25 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 23:19:25 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:19:26 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:19:27 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 23:19:27 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 23:19:27 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:19:31 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:19:32 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:19:37 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 23:19:38 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 23:19:50 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:19:50 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 23:19:50 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 23:19:51 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:19:53 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:19:53 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 23:19:53 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 23:19:54 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:19:54 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:19:55 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-14 23:19:59 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:20:01 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-14 23:22:00 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:22:00 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 23:22:01 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 23:22:01 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:22:01 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:22:01 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 23:22:01 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 23:22:01 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:22:06 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:22:07 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:22:11 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-14 23:22:11 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 23:22:23 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:22:24 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 23:22:24 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 23:22:24 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:22:25 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:22:25 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 23:22:25 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 23:22:25 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:22:29 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:22:31 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-14 23:22:31 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:22:31 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-14 23:22:32 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-14 23:22:34 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-14 23:22:34 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-14 23:22:34 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-14 23:22:35 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-14 23:22:36 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-14 23:22:36 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-14 23:22:36 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-14 23:22:36 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-14 23:22:39 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-14 23:23:08 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:23:09 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 23:23:09 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:23:09 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 23:23:09 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 23:23:09 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:23:09 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 23:23:09 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:23:13 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:23:14 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:23:17 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-14 23:23:19 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-14 23:23:27 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:23:28 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-14 23:23:28 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-14 23:23:28 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:23:32 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-14 23:23:32 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:23:32 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-14 23:23:33 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-14 23:23:33 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-14 23:23:33 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-14 23:23:33 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-14 23:23:34 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-14 23:23:36 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-14 23:23:36 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-14 23:23:36 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-14 23:23:36 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-14 23:23:38 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-14 23:23:38 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-14 23:23:38 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-14 23:23:38 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-14 23:23:38 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-14 23:23:41 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-14 23:23:41 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-15 07:40:01 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 07:40:01 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 07:40:01 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-15 07:40:01 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-15 07:40:01 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-15 07:40:02 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-15 07:40:02 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 07:40:02 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 07:40:08 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 07:40:11 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 07:40:14 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-15 07:40:15 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-15 07:40:27 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 07:40:28 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-15 07:40:28 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-15 07:40:29 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 07:40:30 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 07:40:30 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-15 07:40:30 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-15 07:40:31 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 07:40:34 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 07:40:36 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-15 07:40:36 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 07:40:36 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-15 07:40:38 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-15 07:40:39 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-15 07:40:41 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-15 07:40:41 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-15 07:40:41 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-15 07:40:42 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-15 07:40:43 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-15 07:40:44 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-15 07:40:44 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-15 07:40:44 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-15 07:40:47 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-15 07:46:50 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 07:46:50 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 07:46:51 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-15 07:46:51 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-15 07:46:52 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-15 07:46:52 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-15 07:46:52 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 07:46:52 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 07:46:57 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 07:46:58 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 07:47:01 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-15 07:47:04 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-15 07:47:16 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 07:47:16 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-15 07:47:17 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-15 07:47:17 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 07:47:21 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2025-12-15 07:47:21 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 07:47:21 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2025-12-15 07:47:21 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 07:47:22 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-15 07:47:22 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-15 07:47:22 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 07:47:23 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2025-12-15 07:47:26 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 07:47:26 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2025-12-15 07:47:26 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2025-12-15 07:47:26 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2025-12-15 07:47:27 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2025-12-15 07:47:28 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2025-12-15 07:47:28 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2025-12-15 07:47:28 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2025-12-15 07:47:28 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2025-12-15 07:47:30 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-15 07:47:31 [INFO] testCases.TC02_BetaLogs - Computing result
+2025-12-15 07:53:50 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 07:53:50 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-15 07:53:51 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 07:53:51 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-15 07:53:51 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-15 07:53:52 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 07:53:55 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 07:53:59 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 07:54:01 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-15 07:54:08 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-15 07:54:23 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 07:54:23 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-15 07:54:23 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-15 07:54:23 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 07:54:28 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 07:54:29 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-15 07:58:21 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 07:58:22 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 07:58:22 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-15 07:58:22 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-15 07:58:22 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-15 07:58:22 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 07:58:23 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-15 07:58:23 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 07:58:29 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 07:58:29 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 07:58:37 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2025-12-15 07:58:37 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-15 07:58:54 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 07:58:54 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-15 07:58:55 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-15 07:58:55 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 07:59:00 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 07:59:03 [INFO] pageObjects.RegisteredSessionsPage - Initialized Page: RegisteredSessionsPage
+2025-12-15 08:01:54 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 08:01:55 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2025-12-15 08:01:56 [INFO] pageObjects.LoginPage - Attempting login with password: Vidaabhi@123
+2025-12-15 08:01:56 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 08:01:58 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2025-12-15 08:01:59 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2025-12-15 08:01:59 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@321
+2025-12-15 08:01:59 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2025-12-15 08:02:01 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 08:02:05 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2025-12-15 08:02:09 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2025-12-15 08:02:12 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
