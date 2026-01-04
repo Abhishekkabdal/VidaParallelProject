@@ -25,7 +25,7 @@
       <span class="top-banner-title-font">Test results</span>
       <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -39,7 +39,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" panel-name="suite-Parallel_Suite" class="navigator-link">
-              <span class="suite-name border-failed">Parallel-Suite</span>
+              <span class="suite-name border-passed">Parallel-Suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -60,7 +60,7 @@
                 </li>
                 <li>
                   <a href="#" panel-name="group-Parallel_Suite" class="navigator-link ">
-                    <span>4 groups</span>
+                    <span>3 groups</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -92,21 +92,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">4 methods, 1 failed,   3 passed</span>
-                  </li>
-                  <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-Parallel_Suite" class="hide-methods failed suite-Parallel_Suite"> (hide)</a> <!-- hide-methods failed suite-Parallel_Suite -->
-                      <a href="#" panel-name="suite-Parallel_Suite" class="show-methods failed suite-Parallel_Suite"> (show)</a> <!-- show-methods failed suite-Parallel_Suite -->
-                    </span>
-                    <div class="method-list-content failed suite-Parallel_Suite">
-                      <span>
-                        <img src="failed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Parallel_Suite" title="testCases.TC03_Sessions" class="method navigator-link" hash-for-method="Session">Session</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content failed suite-Parallel_Suite -->
+                    <span class="method-stats">2 methods,   2 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -125,11 +111,6 @@
                         <a href="#" panel-name="suite-Parallel_Suite" title="testCases.TC05_RoamingSession" class="method navigator-link" hash-for-method="Session">Session</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                      <span>
-                        <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Parallel_Suite" title="testCases.TC02_BetaLogs" class="method navigator-link" hash-for-method="chargerLogs">chargerLogs</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
                     </div> <!-- method-list-content passed suite-Parallel_Suite -->
                   </li>
                 </ul>
@@ -142,56 +123,6 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Parallel_Suite" class="panel Parallel_Suite">
-          <div class="suite-Parallel_Suite-class-failed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">testCases.TC03_Sessions</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="Session">
-                  </a> <!-- Session -->
-                  <span class="method-name">Session</span>
-                  <div class="stack-trace">org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found in the current frame
-  (Session info: chrome=139.0.7258.127)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
-Build info: version: &apos;4.24.0&apos;, revision: &apos;748ffc9bc3&apos;
-System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;23.0.1&apos;
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [bd29d364d6d285e5c79a0c3c3a5486cd, isElementDisplayed {id=f.45B6385D0BA109A321CAD02F2BA78A60.d.67D5D8DA1B0B10685A5F8F0796CE9DB2.e.139}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.127, chrome: {chromedriverVersion: 139.0.7258.68 (40ff94600b6e..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:35605}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.4:4444/sessio..., se:cdpVersion: 139.0.7258.127, se:containerName: 9ea9f7216375, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[RemoteWebDriver: chrome on linux (bd29d364d6d285e5c79a0c3c3a5486cd)] -&gt; xpath: //span[@class=&apos;k-pager-info k-label&apos;]]
-Session ID: bd29d364d6d285e5c79a0c3c3a5486cd
-	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
-	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
-	at org.openqa.selenium.remote.RemoteWebElement.isDisplayed(RemoteWebElement.java:282)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at jdk.proxy2/jdk.proxy2.$Proxy29.isDisplayed(Unknown Source)
-	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304)
-	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
-	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
-	at pageObjects.BasePage.waitVisible(BasePage.java:38)
-	at pageObjects.BasePage.visible(BasePage.java:73)
-	at pageObjects.RegisteredSessionsPage.sc(RegisteredSessionsPage.java:43)
-	at testCases.TC03_Sessions.Session(TC03_Sessions.java:19)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-	at java.base/java.lang.Thread.run(Thread.java:1575)
-... Removed 20 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Parallel_Suite-class-failed -->
           <div class="suite-Parallel_Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -222,21 +153,6 @@ Session ID: bd29d364d6d285e5c79a0c3c3a5486cd
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Parallel_Suite-class-passed -->
-          <div class="suite-Parallel_Suite-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">testCases.TC02_BetaLogs</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="chargerLogs">
-                  </a> <!-- chargerLogs -->
-                  <span class="method-name">chargerLogs</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Parallel_Suite-class-passed -->
         </div> <!-- panel Parallel_Suite -->
         <div panel-name="test-xml-Parallel_Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -256,7 +172,6 @@ Session ID: bd29d364d6d285e5c79a0c3c3a5486cd
     &lt;parameter name=&quot;username&quot; value=&quot;Abhishek&quot;/&gt;
     &lt;classes&gt;
       &lt;class name=&quot;testCases.TC05_RoamingSession&quot;/&gt;
-      &lt;class name=&quot;testCases.TC03_Sessions&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- ChromeTest --&gt;
   &lt;test thread-count=&quot;2&quot; parallel=&quot;tests&quot; name=&quot;EdgeTest&quot;&gt;
@@ -265,7 +180,6 @@ Session ID: bd29d364d6d285e5c79a0c3c3a5486cd
     &lt;parameter name=&quot;username&quot; value=&quot;Automatic&quot;/&gt;
     &lt;classes&gt;
       &lt;class name=&quot;testCases.TC04_Permissions&quot;/&gt;
-      &lt;class name=&quot;testCases.TC02_BetaLogs&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- EdgeTest --&gt;
 &lt;/suite&gt; &lt;!-- Parallel-Suite --&gt;
@@ -279,10 +193,10 @@ Session ID: bd29d364d6d285e5c79a0c3c3a5486cd
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">ChromeTest (2 classes)</span>
+                <span class="test-name">ChromeTest (1 class)</span>
               </li>
               <li>
-                <span class="test-name">EdgeTest (2 classes)</span>
+                <span class="test-name">EdgeTest (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -311,25 +225,9 @@ Session ID: bd29d364d6d285e5c79a0c3c3a5486cd
                 <span class="method-in-group-name">Permission</span>
                 <br/>
               </div> <!-- method-in-group -->
-              <div class="method-in-group">
-                <span class="method-in-group-name">chargerLogs</span>
-                <br/>
-              </div> <!-- method-in-group -->
             </div> <!-- test-group -->
             <div class="test-group">
               <span class="test-group-name">Smoke</span>
-              <br/>
-              <div class="method-in-group">
-                <span class="method-in-group-name">Session</span>
-                <br/>
-              </div> <!-- method-in-group -->
-              <div class="method-in-group">
-                <span class="method-in-group-name">chargerLogs</span>
-                <br/>
-              </div> <!-- method-in-group -->
-            </div> <!-- test-group -->
-            <div class="test-group">
-              <span class="test-group-name">sanity</span>
               <br/>
               <div class="method-in-group">
                 <span class="method-in-group-name">Session</span>
@@ -352,28 +250,20 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(4);
+data.addRows(2);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'Session')
 data.setCell(0, 2, 'testCases.TC05_RoamingSession')
-data.setCell(0, 3, 17514);
+data.setCell(0, 3, 24090);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'Permission')
 data.setCell(1, 2, 'testCases.TC04_Permissions')
-data.setCell(1, 3, 10990);
-data.setCell(2, 0, 2)
-data.setCell(2, 1, 'chargerLogs')
-data.setCell(2, 2, 'testCases.TC02_BetaLogs')
-data.setCell(2, 3, 9237);
-data.setCell(3, 0, 3)
-data.setCell(3, 1, 'Session')
-data.setCell(3, 2, 'testCases.TC03_Sessions')
-data.setCell(3, 3, 6121);
+data.setCell(1, 3, 23625);
 window.suiteTableData['Parallel_Suite']= { tableData: data, tableDiv: 'times-div-Parallel_Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 39 seconds</span>
+              <span class="suite-total-time">Total running time: 44 seconds</span>
               <div id="times-div-Parallel_Suite">
               </div> <!-- times-div-Parallel_Suite -->
             </div> <!-- times-div -->
@@ -411,74 +301,30 @@ return data;
                 <span class="method-name">setup(edge, Automatic, Automatic@321)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">Permission</span>
+                <span class="method-start">19310 ms</span>
+              </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC05_RoamingSession</div> <!-- chronological-class-name -->
               <div class="test-method">
                 <span class="method-name">Session</span>
-                <span class="method-start">8653 ms</span>
+                <span class="method-start">19921 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC04_Permissions</div> <!-- chronological-class-name -->
-              <div class="test-method">
-                <span class="method-name">Permission</span>
-                <span class="method-start">9679 ms</span>
-              </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">20683 ms</span>
+                <span class="method-start">42970 ms</span>
               </div> <!-- configuration-class after -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">testCases.TC02_BetaLogs</div> <!-- chronological-class-name -->
-              <div class="configuration-class before">
-                <span class="method-name">setup(edge, Automatic, Automatic@321)</span>
-                <span class="method-start">20823 ms</span>
-              </div> <!-- configuration-class before -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testCases.TC05_RoamingSession</div> <!-- chronological-class-name -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">26169 ms</span>
-              </div> <!-- configuration-class after -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">testCases.TC03_Sessions</div> <!-- chronological-class-name -->
-              <div class="configuration-class before">
-                <span class="method-name">setup(chrome, Abhishek, Vidaabhi@123)</span>
-                <span class="method-start">26312 ms</span>
-              </div> <!-- configuration-class before -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">testCases.TC02_BetaLogs</div> <!-- chronological-class-name -->
-              <div class="test-method">
-                <span class="method-name">chargerLogs</span>
-                <span class="method-start">28302 ms</span>
-              </div> <!-- test-method -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">testCases.TC03_Sessions</div> <!-- chronological-class-name -->
-              <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">Session</span>
-                <span class="method-start">32227 ms</span>
-              </div> <!-- test-method -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">testCases.TC02_BetaLogs</div> <!-- chronological-class-name -->
-              <div class="configuration-class after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">37545 ms</span>
-              </div> <!-- configuration-class after -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">testCases.TC03_Sessions</div> <!-- chronological-class-name -->
-              <div class="configuration-class after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">38977 ms</span>
+                <span class="method-start">44017 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

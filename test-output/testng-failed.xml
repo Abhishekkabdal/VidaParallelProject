@@ -4,18 +4,18 @@
   <listeners>
     <listener class-name="listeners.ExtentTestListener"/>
   </listeners>
-  <test thread-count="2" parallel="tests" name="ChromeTest(failed)">
-    <parameter name="password" value="Vidaabhi@123"/>
-    <parameter name="browser" value="chrome"/>
-    <parameter name="username" value="Abhishek"/>
+  <test thread-count="2" parallel="tests" name="EdgeTest(failed)">
+    <parameter name="password" value="Automatic@321"/>
+    <parameter name="browser" value="edge"/>
+    <parameter name="username" value="Automatic"/>
     <classes>
-      <class name="testCases.TC03_Sessions">
+      <class name="testCases.TC04_Permissions">
         <methods>
           <include name="tearDown"/>
-          <include name="Session"/>
+          <include name="Permission"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC03_Sessions -->
+      </class> <!-- testCases.TC04_Permissions -->
     </classes>
-  </test> <!-- ChromeTest(failed) -->
+  </test> <!-- EdgeTest(failed) -->
 </suite> <!-- Failed suite [Parallel-Suite] -->

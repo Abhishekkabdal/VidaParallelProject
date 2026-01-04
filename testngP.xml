@@ -18,7 +18,7 @@
 	<test name="ChromeTest">
 		<parameter name="browser" value="chrome" />
 		<parameter name="username" value="Abhishek" />
-		<parameter name="password" value="Vidaabhi@123" />
+		<parameter name="password" value="Abhi@123" />
 		<classes>
 			
 			<class name="testCases.TC05_RoamingSession" />

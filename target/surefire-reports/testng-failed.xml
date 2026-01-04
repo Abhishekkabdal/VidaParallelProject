@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Failed suite [Parallel-Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="listeners.ExtentTestListener"/>
+  </listeners>
+  <test thread-count="2" parallel="tests" name="EdgeTest(failed)" verbose="0">
+    <parameter name="password" value="Automatic@321"/>
+    <parameter name="browser" value="edge"/>
+    <parameter name="username" value="Automatic"/>
+    <classes>
+      <class name="testCases.TC04_Permissions">
+        <methods>
+          <include name="tearDown"/>
+          <include name="Permission"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC04_Permissions -->
+    </classes>
+  </test> <!-- EdgeTest(failed) -->
+  <test thread-count="2" parallel="tests" name="ChromeTest(failed)" verbose="0">
+    <parameter name="password" value="Vidaabhi@123"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="username" value="Abhishek"/>
+    <classes>
+      <class name="testCases.TC05_RoamingSession">
+        <methods>
+          <include name="tearDown"/>
+          <include name="Session"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC05_RoamingSession -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [Parallel-Suite] -->

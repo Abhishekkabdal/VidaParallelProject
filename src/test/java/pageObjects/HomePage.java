@@ -48,8 +48,7 @@ public class HomePage extends BasePage {
 	public void clickStationManagement() {
 		log.info("Navigating to the station management tab");
 		clickable(stationManagement);
-		stationManagement.click();
-		
+		stationManagement.click();	
 	}
 	
 	

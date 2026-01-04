@@ -75,7 +75,7 @@ public class BaseClass {
 		    //options.addArguments("--headless=new");
 			return new RemoteWebDriver(gridUrl, options);
 
-		} else {
+		} else { 
 			throw new IllegalArgumentException("Unsupported browser: " + browser);
 		}
 	}
