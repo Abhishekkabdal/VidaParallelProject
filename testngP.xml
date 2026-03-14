@@ -8,22 +8,13 @@
 	</listeners>
 
 
-	<!-- <test name="TC04_Permissions_Test">
-        <classes>
-            <class name="testCases.TC04_Permissions" />
-        </classes>
-    </test> -->
-
 
 	<test name="ChromeTest">
 		<parameter name="browser" value="chrome" />
 		<parameter name="username" value="Abhishek" />
-		<parameter name="password" value="Abhi@123" />
-		<classes>
-			
+		<parameter name="password" value="Vida@123" />
+		<classes>	
 			<class name="testCases.TC05_RoamingSession" />
-			<!--<class name="testCases.TC03_Sessions" />-->
-			<!--<class name="testCases.TC05_RoamingSession" /> -->
 		</classes>
 	</test>
 
@@ -31,10 +22,9 @@
 	<test name="EdgeTest">
 		<parameter name="browser" value="edge" />
 		<parameter name="username" value="Automatic" />
-		<parameter name="password" value="Automatic@321" />
+		<parameter name="password" value="Automatic@123" />
 		<classes>
 			<class name="testCases.TC04_Permissions" />
-			<!--<class name="testCases.TC02_BetaLogs" />-->
 		</classes>
 	</test>
 

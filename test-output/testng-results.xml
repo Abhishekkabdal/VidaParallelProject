@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-18T07:57:19 IST" name="Parallel-Suite" finished-at="2025-12-18T07:58:04 IST" duration-ms="44554">
+  <suite started-at="2026-03-14T09:00:27 IST" name="Parallel-Suite" finished-at="2026-03-14T09:01:17 IST" duration-ms="50002">
     <groups>
       <group name="Sanity">
         <method signature="TC04_Permissions.Permission()[pri:0, instance:testCases.TC04_Permissions@4c012563]" name="Permission" class="testCases.TC04_Permissions"/>
@@ -15,9 +15,9 @@
         <method signature="TC05_RoamingSession.Session()[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" name="Session" class="testCases.TC05_RoamingSession"/>
       </group> <!-- Smoke -->
     </groups>
-    <test started-at="2025-12-18T07:57:19 IST" name="EdgeTest" finished-at="2025-12-18T07:58:02 IST" duration-ms="43230">
+    <test started-at="2026-03-14T09:00:27 IST" name="EdgeTest" finished-at="2026-03-14T09:01:13 IST" duration-ms="45799">
       <class name="testCases.TC04_Permissions">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC04_Permissions@4c012563]" started-at="2025-12-18T07:57:19 IST" name="setup" finished-at="2025-12-18T07:57:38 IST" duration-ms="19279" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC04_Permissions@4c012563]" started-at="2026-03-14T09:00:27 IST" name="setup" finished-at="2026-03-14T09:00:51 IST" duration-ms="24089" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -31,26 +31,26 @@
             </param>
             <param index="2">
               <value>
-                <![CDATA[Automatic@321]]>
+                <![CDATA[Automatic@123]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Permission()[pri:0, instance:testCases.TC04_Permissions@4c012563]" started-at="2025-12-18T07:57:38 IST" name="Permission" finished-at="2025-12-18T07:58:02 IST" duration-ms="23625" status="PASS">
+        <test-method signature="Permission()[pri:0, instance:testCases.TC04_Permissions@4c012563]" started-at="2026-03-14T09:00:51 IST" name="Permission" finished-at="2026-03-14T09:01:12 IST" duration-ms="21029" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Permission -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC04_Permissions@4c012563]" started-at="2025-12-18T07:58:02 IST" name="tearDown" finished-at="2025-12-18T07:58:02 IST" duration-ms="219" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC04_Permissions@4c012563]" started-at="2026-03-14T09:01:12 IST" name="tearDown" finished-at="2026-03-14T09:01:13 IST" duration-ms="463" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC04_Permissions -->
     </test> <!-- EdgeTest -->
-    <test started-at="2025-12-18T07:57:19 IST" name="ChromeTest" finished-at="2025-12-18T07:58:04 IST" duration-ms="44554">
+    <test started-at="2026-03-14T09:00:27 IST" name="ChromeTest" finished-at="2026-03-14T09:01:17 IST" duration-ms="50002">
       <class name="testCases.TC05_RoamingSession">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" started-at="2025-12-18T07:57:19 IST" name="setup" finished-at="2025-12-18T07:57:39 IST" duration-ms="19918" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" started-at="2026-03-14T09:00:27 IST" name="setup" finished-at="2026-03-14T09:00:49 IST" duration-ms="21326" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -64,18 +64,18 @@
             </param>
             <param index="2">
               <value>
-                <![CDATA[Vidaabhi@123]]>
+                <![CDATA[Vida@123]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Session()[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" started-at="2025-12-18T07:57:39 IST" name="Session" finished-at="2025-12-18T07:58:03 IST" duration-ms="24090" status="PASS">
+        <test-method signature="Session()[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" started-at="2026-03-14T09:00:49 IST" name="Session" finished-at="2026-03-14T09:01:17 IST" duration-ms="28092" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Session -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" started-at="2025-12-18T07:58:03 IST" name="tearDown" finished-at="2025-12-18T07:58:04 IST" duration-ms="500" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" started-at="2026-03-14T09:01:17 IST" name="tearDown" finished-at="2026-03-14T09:01:17 IST" duration-ms="270" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

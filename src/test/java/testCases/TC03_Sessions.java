@@ -24,7 +24,7 @@ public class TC03_Sessions extends BaseClass {
 		String cancelledcount=sp.clickCancelledBookingTab();
 		System.out.println("Cancelled Session:"+cancelledcount);
 		
-		
+		  
 	}
 
 }

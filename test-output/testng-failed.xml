@@ -5,7 +5,7 @@
     <listener class-name="listeners.ExtentTestListener"/>
   </listeners>
   <test thread-count="2" parallel="tests" name="EdgeTest(failed)">
-    <parameter name="password" value="Automatic@321"/>
+    <parameter name="password" value="Automatic@123"/>
     <parameter name="browser" value="edge"/>
     <parameter name="username" value="Automatic"/>
     <classes>
