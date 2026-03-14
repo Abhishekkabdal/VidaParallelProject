@@ -17,6 +17,10 @@ import org.testng.annotations.Parameters;
 
 import pageObjects.LoginPage;
 
+
+// I am a base class do you know this!!!
+// You know write
+
 public class BaseClass {
 
 	private static ThreadLocal<WebDriver> driver = new ThreadLocal<>();
