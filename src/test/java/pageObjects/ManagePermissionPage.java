@@ -1,12 +1,14 @@
 package pageObjects;
 
-import java.util.List;
+import java.time.Duration;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class ManagePermissionPage extends BasePage {
 
@@ -20,6 +22,9 @@ public class ManagePermissionPage extends BasePage {
 
 	@FindBy(xpath = "//button[@class='btn btn-primary']")
 	WebElement submitButton;
+	
+	@FindBy(xpath="//input[@id='z0__ChildMenues_1__AllowThisMenu']")
+	WebElement checkbox;
 
 	@FindBy(id = "okButton")
 	WebElement okButton;
@@ -27,8 +32,10 @@ public class ManagePermissionPage extends BasePage {
 	@FindBy(xpath = "//span[contains(text(),'Session Management') and @class='mastermenu']")
 	WebElement sessionManagement;
 	
-	@FindBy(xpath = "//div[@id='analyticsSubmenu_2']//a//span")
-	List<WebElement> sessionManagementMenus; //List<WebElement> allCounts;
+
+	
+	@FindBy(xpath = "//div[@id='analyticsSubmenu_2']//a[1]//span")
+	WebElement sessionManagementMenus;
 
 	public ManagePermissionPage(WebDriver driver) {
 		super(driver);
@@ -39,9 +46,11 @@ public class ManagePermissionPage extends BasePage {
 		select.selectByVisibleText("Admin");
 	}
 
-	public void clickOnRegisteredVinCheckbox() {
+	public Boolean clickOnRegisteredVinCheckbox() {
 		clickable(registeredVinCheckBox);
 		registeredVinCheckBox.click();
+		Boolean SelectionStatus=checkbox.isSelected();
+		return SelectionStatus;
 
 	}
 
@@ -63,8 +72,8 @@ public class ManagePermissionPage extends BasePage {
 	}
 	
 	public String clickSessionManagementAndGetMenusName() throws InterruptedException {
-		Thread.sleep(2000);
-		String rv=sessionManagementMenus.get(0).getText();
+		Thread.sleep(2000); 
+		String rv=sessionManagementMenus.getText();
 		System.out.println(rv);
 		return rv;
 	}

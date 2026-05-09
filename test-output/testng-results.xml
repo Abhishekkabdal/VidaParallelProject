@@ -1,56 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-14T09:00:27 IST" name="Parallel-Suite" finished-at="2026-03-14T09:01:17 IST" duration-ms="50002">
+  <suite started-at="2026-05-03T23:25:19 IST" name="Parallel-Suite" finished-at="2026-05-03T23:26:45 IST" duration-ms="85903">
     <groups>
       <group name="Sanity">
-        <method signature="TC04_Permissions.Permission()[pri:0, instance:testCases.TC04_Permissions@4c012563]" name="Permission" class="testCases.TC04_Permissions"/>
+        <method signature="TC02_BetaLogs.chargerLogs()[pri:0, instance:testCases.TC02_BetaLogs@51650883]" name="chargerLogs" class="testCases.TC02_BetaLogs"/>
       </group> <!-- Sanity -->
       <group name="Regression">
         <method signature="TC05_RoamingSession.Session()[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" name="Session" class="testCases.TC05_RoamingSession"/>
-        <method signature="TC04_Permissions.Permission()[pri:0, instance:testCases.TC04_Permissions@4c012563]" name="Permission" class="testCases.TC04_Permissions"/>
+        <method signature="TC02_BetaLogs.chargerLogs()[pri:0, instance:testCases.TC02_BetaLogs@51650883]" name="chargerLogs" class="testCases.TC02_BetaLogs"/>
       </group> <!-- Regression -->
       <group name="Smoke">
         <method signature="TC05_RoamingSession.Session()[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" name="Session" class="testCases.TC05_RoamingSession"/>
+        <method signature="TC02_BetaLogs.chargerLogs()[pri:0, instance:testCases.TC02_BetaLogs@51650883]" name="chargerLogs" class="testCases.TC02_BetaLogs"/>
       </group> <!-- Smoke -->
     </groups>
-    <test started-at="2026-03-14T09:00:27 IST" name="EdgeTest" finished-at="2026-03-14T09:01:13 IST" duration-ms="45799">
-      <class name="testCases.TC04_Permissions">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC04_Permissions@4c012563]" started-at="2026-03-14T09:00:27 IST" name="setup" finished-at="2026-03-14T09:00:51 IST" duration-ms="24089" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[edge]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Automatic]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Automatic@123]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="Permission()[pri:0, instance:testCases.TC04_Permissions@4c012563]" started-at="2026-03-14T09:00:51 IST" name="Permission" finished-at="2026-03-14T09:01:12 IST" duration-ms="21029" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Permission -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC04_Permissions@4c012563]" started-at="2026-03-14T09:01:12 IST" name="tearDown" finished-at="2026-03-14T09:01:13 IST" duration-ms="463" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC04_Permissions -->
-    </test> <!-- EdgeTest -->
-    <test started-at="2026-03-14T09:00:27 IST" name="ChromeTest" finished-at="2026-03-14T09:01:17 IST" duration-ms="50002">
+    <test started-at="2026-05-03T23:25:19 IST" name="ChromeTest" finished-at="2026-05-03T23:26:12 IST" duration-ms="52918">
       <class name="testCases.TC05_RoamingSession">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" started-at="2026-03-14T09:00:27 IST" name="setup" finished-at="2026-03-14T09:00:49 IST" duration-ms="21326" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" started-at="2026-05-03T23:25:19 IST" name="setup" finished-at="2026-05-03T23:25:42 IST" duration-ms="22749" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -71,15 +39,113 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Session()[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" started-at="2026-03-14T09:00:49 IST" name="Session" finished-at="2026-03-14T09:01:17 IST" duration-ms="28092" status="PASS">
+        <test-method signature="Session()[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" started-at="2026-05-03T23:25:42 IST" name="Session" finished-at="2026-05-03T23:26:11 IST" duration-ms="29604" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Session -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" started-at="2026-03-14T09:01:17 IST" name="tearDown" finished-at="2026-03-14T09:01:17 IST" duration-ms="270" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC05_RoamingSession@6531a794]" started-at="2026-05-03T23:26:11 IST" name="tearDown" finished-at="2026-05-03T23:26:12 IST" duration-ms="338" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC05_RoamingSession -->
     </test> <!-- ChromeTest -->
+    <test started-at="2026-05-03T23:25:19 IST" name="EdgeTest" finished-at="2026-05-03T23:26:45 IST" duration-ms="85798">
+      <class name="testCases.TC02_BetaLogs">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_BetaLogs@51650883]" started-at="2026-05-03T23:25:19 IST" name="setup" finished-at="2026-05-03T23:25:42 IST" duration-ms="22898" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Automatic]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Automatic@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="chargerLogs()[pri:0, instance:testCases.TC02_BetaLogs@51650883]" started-at="2026-05-03T23:25:42 IST" name="chargerLogs" finished-at="2026-05-03T23:26:41 IST" duration-ms="59239" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //td[@role='gridcell']' (tried for 10 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //td[@role='gridcell']' (tried for 10 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at pageObjects.BasePage.waitVisible(BasePage.java:38)
+at pageObjects.BasePage.visible(BasePage.java:73)
+at pageObjects.ChargerDashboardPage.clickOnChargerLogsBeta(ChargerDashboardPage.java:30)
+at testCases.TC02_BetaLogs.chargerLogs(TC02_BetaLogs.java:32)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1575)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//td[@role='gridcell']"}
+  (Session info: MicrosoftEdge=139.0.3405.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [e7412101555e90c36593c4d70f270e9e, findElement {using=xpath, value=//td[@role='gridcell']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 139.0.3405.86, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:38381}, msedge: {msedgedriverVersion: 139.0.3405.86 (057d25f32fab..., userDataDir: /tmp/.com.microsoft.Edge.I0...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.4:4444/sessio..., se:cdpVersion: 139.0.3405.86, se:containerName: d704f2f93d1f, se:deleteSessionOnUi: true, se:downloadsEnabled: true, se:noVncPort: 7900, se:vnc: ws://172.19.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e7412101555e90c36593c4d70f270e9e
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:53)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at jdk.proxy2/jdk.proxy2.$Proxy29.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+... 24 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chargerLogs -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC02_BetaLogs@51650883]" started-at="2026-05-03T23:26:43 IST" name="tearDown" finished-at="2026-05-03T23:26:45 IST" duration-ms="1983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC02_BetaLogs -->
+    </test> <!-- EdgeTest -->
   </suite> <!-- Parallel-Suite -->
 </testng-results>

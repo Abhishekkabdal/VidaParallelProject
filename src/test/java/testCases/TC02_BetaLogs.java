@@ -13,10 +13,11 @@ public class TC02_BetaLogs extends BaseClass {
 	
 	private static final Logger log = LogManager.getLogger(TC02_BetaLogs.class);
 // dependsOnMethods = { "testCases.TC01_Login.login" },
-	@Test(groups= {"Smoke","Sanity"})
+	@Test(groups= {"Smoke","Sanity","Regression"})
 	public void chargerLogs() throws InterruptedException {
 		System.out.println("Now you are logged in, Beta logs test can run");
 		log.info("================Beta Logs Test started ===================");
+		
 		HomePage hp = new HomePage(getDriver());
 
 		hp.clickStationManagement();
@@ -30,7 +31,15 @@ public class TC02_BetaLogs extends BaseClass {
 		ChargerDashboardPage cdp = new ChargerDashboardPage(getDriver());
 		Boolean res = cdp.clickOnChargerLogsBeta();
 		log.info("Computing result");
-		Assert.assertEquals(true, res);
+		if(res) {
+			System.out.println("Logs data is present");
+			Assert.assertEquals(true, res);
+		}
+		else {
+			System.out.println("Logs data not present");
+			Assert.fail("Test Case failed");
+		}
+		
 		
 
 	}

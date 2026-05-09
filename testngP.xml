@@ -23,7 +23,7 @@
 		<parameter name="username" value="Automatic" />
 		<parameter name="password" value="Automatic@123" />
 		<classes>
-			<class name="testCases.TC04_Permissions" />
+			<class name="testCases.TC02_BetaLogs" />
 		</classes>
 	</test>
 

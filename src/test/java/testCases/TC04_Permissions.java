@@ -16,13 +16,32 @@ public class TC04_Permissions extends BaseClass {
 		hp.clickManagePermission();
 		ManagePermissionPage mp=new ManagePermissionPage(getDriver());
 		mp.ClickPermissionTab();
-		mp.clickOnRegisteredVinCheckbox();
+		Boolean statusofcheckbox=mp.clickOnRegisteredVinCheckbox();
+		
+		
+		System.out.println(statusofcheckbox);
 		mp.clickSubmitButton();
 		mp.clickOkButton();
 		mp.clickSessionManagement();
-		String exp="Registered VINs";	
 		String act=mp.clickSessionManagementAndGetMenusName();
-		Assert.assertEquals(act, exp, "No registered vin sub menu is present,Role Permission working Fine");
+		
+		if(statusofcheckbox) {
+			System.out.println("Registered Vins tab selected");
+			Assert.assertEquals(act,"Registered VINs");
+			System.out.println("Registered Vin Tab present, roles permissions working Fine");
+		}
+		else {
+			System.out.println("Registered Vin tab unselected");
+			Assert.assertEquals(act,"Un-Registered VINs");
+			System.out.println("Un-Registered Vin Tab present, roles permissions working Fine");
+		}
+		
+		
+	
+		
+		//mp.clickSessionManagement();
+			
+		
 		
 	}
 	

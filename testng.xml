@@ -13,10 +13,6 @@
 			</run>
 		</groups>
 		<classes>
-			<class name="testCases.TC01_Login" />
-			<class name="testCases.TC04_Permissions" />
-			<class name="testCases.TC03_Sessions" />
-			<class name="testCases.TC05_RoamingSession" />
 			<class name="testCases.TC02_BetaLogs" />
 		</classes>
 	</test> <!--

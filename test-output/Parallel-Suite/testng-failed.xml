@@ -9,13 +9,13 @@
     <parameter name="browser" value="edge"/>
     <parameter name="username" value="Automatic"/>
     <classes>
-      <class name="testCases.TC04_Permissions">
+      <class name="testCases.TC02_BetaLogs">
         <methods>
           <include name="tearDown"/>
-          <include name="Permission"/>
+          <include name="chargerLogs"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC04_Permissions -->
+      </class> <!-- testCases.TC02_BetaLogs -->
     </classes>
   </test> <!-- EdgeTest(failed) -->
 </suite> <!-- Failed suite [Parallel-Suite] -->

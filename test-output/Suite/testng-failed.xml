@@ -11,20 +11,13 @@
       </run>
     </groups>
     <classes>
-      <class name="testCases.TC05_RoamingSession">
+      <class name="testCases.TC02_BetaLogs">
         <methods>
           <include name="tearDown"/>
-          <include name="Session"/>
+          <include name="chargerLogs"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC05_RoamingSession -->
-      <class name="testCases.TC04_Permissions">
-        <methods>
-          <include name="tearDown"/>
-          <include name="Permission"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC04_Permissions -->
+      </class> <!-- testCases.TC02_BetaLogs -->
     </classes>
   </test> <!-- SmokeTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->
