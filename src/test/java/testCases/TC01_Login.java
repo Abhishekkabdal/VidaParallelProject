@@ -33,6 +33,8 @@ public class TC01_Login extends BaseClass {
         lp.passLoginId(ConfigUtility.getLoginID());
         lp.passPassword(ConfigUtility.getPassword());
         lp.clickLogin();
+        
+        // Pipeline Building
 
         WebDriverWait wait = new WebDriverWait(getDriver(), Duration.ofSeconds(10));
         wait.until(ExpectedConditions.titleContains("VIDA - Maps"));
