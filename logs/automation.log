@@ -2675,3 +2675,73 @@
 2026-05-03 23:25:56 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
 2026-05-03 23:25:56 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
 2026-05-03 23:25:56 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2026-05-10 11:59:48 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2026-05-10 11:59:50 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2026-05-10 11:59:50 [INFO] pageObjects.LoginPage - Attempting login with password: Vida@123
+2026-05-10 11:59:51 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2026-05-10 11:59:51 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2026-05-10 11:59:53 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2026-05-10 11:59:53 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@123
+2026-05-10 11:59:54 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2026-05-10 11:59:55 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2026-05-10 12:00:03 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2026-05-10 12:00:03 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2026-05-10 12:00:03 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2026-05-10 12:00:08 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2026-05-10 12:00:11 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2026-05-10 12:00:14 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2026-05-10 12:00:14 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2026-05-10 12:00:14 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2026-05-10 12:00:16 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2026-05-10 12:00:17 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2026-05-10 12:00:17 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2026-05-10 12:00:17 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2026-05-10 12:00:17 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2026-05-10 12:00:23 [INFO] testCases.TC02_BetaLogs - Computing result
+2026-05-10 12:00:34 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2026-05-10 12:00:35 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2026-05-10 12:00:35 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@123
+2026-05-10 12:00:36 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2026-05-10 12:00:36 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2026-05-10 12:00:36 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2026-05-10 12:00:37 [INFO] pageObjects.LoginPage - Attempting login with password: Vida@123
+2026-05-10 12:00:37 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2026-05-10 12:00:40 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2026-05-10 12:00:41 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2026-05-10 12:00:49 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2026-05-10 12:00:49 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2026-05-10 12:43:19 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2026-05-10 12:43:20 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2026-05-10 12:43:20 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2026-05-10 12:43:20 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2026-05-10 12:43:21 [INFO] pageObjects.LoginPage - Attempting login with password: Vida@123
+2026-05-10 12:43:21 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@123
+2026-05-10 12:43:21 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2026-05-10 12:43:21 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2026-05-10 12:43:26 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2026-05-10 12:43:26 [INFO] testCases.TC02_BetaLogs - ================Beta Logs Test started ===================
+2026-05-10 12:43:26 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2026-05-10 12:43:26 [INFO] pageObjects.HomePage - Navigating to the station management tab
+2026-05-10 12:43:32 [INFO] pageObjects.HomePage - Navigating to the charger status tab 
+2026-05-10 12:43:33 [INFO] testCases.TC02_BetaLogs - Opening charger status page
+2026-05-10 12:43:33 [INFO] pageObjects.ChargerStatusPage - Initialized Page: ChargerStatusPage
+2026-05-10 12:43:33 [INFO] pageObjects.ChargerStatusPage - Getting various charger count
+2026-05-10 12:43:35 [INFO] pageObjects.RoamingSessionPage - Initialized Page: RoamingSessionPage
+2026-05-10 12:43:35 [INFO] pageObjects.ChargerStatusPage - Clicking active link
+2026-05-10 12:43:36 [INFO] pageObjects.ChargerStatusPage - Switching windows
+2026-05-10 12:43:36 [INFO] pageObjects.ChargerDashboardPage - Initialized Page: ChargerDashboardPage
+2026-05-10 12:43:36 [INFO] pageObjects.ChargerDashboardPage - Opened charger dashboard page
+2026-05-10 12:43:36 [INFO] pageObjects.ChargerDashboardPage - Clicking on beta logs tab
+2026-05-10 12:43:39 [INFO] testCases.TC02_BetaLogs - Computing result
+2026-05-10 12:43:43 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2026-05-10 12:43:44 [INFO] pageObjects.LoginPage - Attempting login with userID: Automatic
+2026-05-10 12:43:45 [INFO] pageObjects.LoginPage - Attempting login with password: Automatic@123
+2026-05-10 12:43:45 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2026-05-10 12:43:48 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2026-05-10 12:43:51 [INFO] pageObjects.LoginPage - Initialized Page: LoginPage
+2026-05-10 12:43:51 [INFO] pageObjects.LoginPage - Attempting login with userID: Abhishek
+2026-05-10 12:43:51 [INFO] pageObjects.LoginPage - Attempting login with password: Vida@123
+2026-05-10 12:43:52 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
+2026-05-10 12:43:52 [INFO] pageObjects.LoginPage - Attempting login by clicking login button
+2026-05-10 12:43:55 [INFO] pageObjects.HomePage - Initialized Page: HomePage
+2026-05-10 12:43:59 [INFO] pageObjects.ManagePermissionPage - Initialized Page: ManagePermissionPage
