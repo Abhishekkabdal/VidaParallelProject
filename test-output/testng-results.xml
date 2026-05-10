@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-05-10T12:43:04 IST" name="Parallel-Suite" finished-at="2026-05-10T12:44:10 IST" duration-ms="65981">
+  <suite started-at="2026-05-10T15:32:22 IST" name="Parallel-Suite" finished-at="2026-05-10T15:33:11 IST" duration-ms="48225">
     <groups>
       <group name="Sanity">
         <method signature="TC04_Permissions.Permission()[pri:0, instance:testCases.TC04_Permissions@34b9f960]" name="Permission" class="testCases.TC04_Permissions"/>
@@ -20,9 +20,9 @@
         <method signature="TC02_BetaLogs.chargerLogs()[pri:0, instance:testCases.TC02_BetaLogs@1827a871]" name="chargerLogs" class="testCases.TC02_BetaLogs"/>
       </group> <!-- Smoke -->
     </groups>
-    <test started-at="2026-05-10T12:43:04 IST" name="EdgeTest" finished-at="2026-05-10T12:44:07 IST" duration-ms="62137">
+    <test started-at="2026-05-10T15:32:22 IST" name="EdgeTest" finished-at="2026-05-10T15:33:01 IST" duration-ms="38924">
       <class name="testCases.TC02_BetaLogs">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_BetaLogs@1827a871]" started-at="2026-05-10T12:43:05 IST" name="setup" finished-at="2026-05-10T12:43:26 IST" duration-ms="21886" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC02_BetaLogs@1827a871]" started-at="2026-05-10T15:32:22 IST" name="setup" finished-at="2026-05-10T15:32:37 IST" duration-ms="14871" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -43,17 +43,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="chargerLogs()[pri:0, instance:testCases.TC02_BetaLogs@1827a871]" started-at="2026-05-10T12:43:26 IST" name="chargerLogs" finished-at="2026-05-10T12:43:39 IST" duration-ms="12738" status="PASS">
+        <test-method signature="chargerLogs()[pri:0, instance:testCases.TC02_BetaLogs@1827a871]" started-at="2026-05-10T15:32:37 IST" name="chargerLogs" finished-at="2026-05-10T15:32:44 IST" duration-ms="7130" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- chargerLogs -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC02_BetaLogs@1827a871]" started-at="2026-05-10T12:43:39 IST" name="tearDown" finished-at="2026-05-10T12:43:39 IST" duration-ms="206" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC02_BetaLogs@1827a871]" started-at="2026-05-10T15:32:44 IST" name="tearDown" finished-at="2026-05-10T15:32:45 IST" duration-ms="191" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC02_BetaLogs -->
       <class name="testCases.TC04_Permissions">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC04_Permissions@48e64352]" started-at="2026-05-10T12:43:39 IST" name="setup" finished-at="2026-05-10T12:43:48 IST" duration-ms="8439" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC04_Permissions@48e64352]" started-at="2026-05-10T15:32:45 IST" name="setup" finished-at="2026-05-10T15:32:52 IST" duration-ms="7160" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -74,19 +74,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Permission()[pri:0, instance:testCases.TC04_Permissions@48e64352]" started-at="2026-05-10T12:43:48 IST" name="Permission" finished-at="2026-05-10T12:44:06 IST" duration-ms="18584" status="PASS">
+        <test-method signature="Permission()[pri:0, instance:testCases.TC04_Permissions@48e64352]" started-at="2026-05-10T15:32:52 IST" name="Permission" finished-at="2026-05-10T15:33:01 IST" duration-ms="9376" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Permission -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC04_Permissions@48e64352]" started-at="2026-05-10T12:44:06 IST" name="tearDown" finished-at="2026-05-10T12:44:07 IST" duration-ms="198" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC04_Permissions@48e64352]" started-at="2026-05-10T15:33:01 IST" name="tearDown" finished-at="2026-05-10T15:33:01 IST" duration-ms="107" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC04_Permissions -->
     </test> <!-- EdgeTest -->
-    <test started-at="2026-05-10T12:43:04 IST" name="ChromeTest" finished-at="2026-05-10T12:44:10 IST" duration-ms="65981">
+    <test started-at="2026-05-10T15:32:22 IST" name="ChromeTest" finished-at="2026-05-10T15:33:11 IST" duration-ms="48225">
       <class name="testCases.TC05_RoamingSession">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC05_RoamingSession@5e17553a]" started-at="2026-05-10T12:43:05 IST" name="setup" finished-at="2026-05-10T12:43:26 IST" duration-ms="21105" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC05_RoamingSession@5e17553a]" started-at="2026-05-10T15:32:22 IST" name="setup" finished-at="2026-05-10T15:32:38 IST" duration-ms="15702" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -107,17 +107,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Session()[pri:0, instance:testCases.TC05_RoamingSession@5e17553a]" started-at="2026-05-10T12:43:26 IST" name="Session" finished-at="2026-05-10T12:43:48 IST" duration-ms="21985" status="PASS">
+        <test-method signature="Session()[pri:0, instance:testCases.TC05_RoamingSession@5e17553a]" started-at="2026-05-10T15:32:38 IST" name="Session" finished-at="2026-05-10T15:32:56 IST" duration-ms="17452" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Session -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC05_RoamingSession@5e17553a]" started-at="2026-05-10T12:43:48 IST" name="tearDown" finished-at="2026-05-10T12:43:48 IST" duration-ms="242" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC05_RoamingSession@5e17553a]" started-at="2026-05-10T15:32:56 IST" name="tearDown" finished-at="2026-05-10T15:32:56 IST" duration-ms="158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC05_RoamingSession -->
       <class name="testCases.TC04_Permissions">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC04_Permissions@34b9f960]" started-at="2026-05-10T12:43:48 IST" name="setup" finished-at="2026-05-10T12:43:55 IST" duration-ms="7520" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC04_Permissions@34b9f960]" started-at="2026-05-10T15:32:56 IST" name="setup" finished-at="2026-05-10T15:33:04 IST" duration-ms="7875" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -138,11 +138,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Permission()[pri:0, instance:testCases.TC04_Permissions@34b9f960]" started-at="2026-05-10T12:43:55 IST" name="Permission" finished-at="2026-05-10T12:44:10 IST" duration-ms="14897" status="PASS">
+        <test-method signature="Permission()[pri:0, instance:testCases.TC04_Permissions@34b9f960]" started-at="2026-05-10T15:33:04 IST" name="Permission" finished-at="2026-05-10T15:33:10 IST" duration-ms="6886" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Permission -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC04_Permissions@34b9f960]" started-at="2026-05-10T12:44:10 IST" name="tearDown" finished-at="2026-05-10T12:44:10 IST" duration-ms="127" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC04_Permissions@34b9f960]" started-at="2026-05-10T15:33:11 IST" name="tearDown" finished-at="2026-05-10T15:33:11 IST" duration-ms="114" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
