@@ -36,7 +36,7 @@ public class BaseClass {
 		driver.set(createRemoteDriver(browser));
 
 		getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
-		getDriver().get("https://charging.vidaworld.com/Account/Login");
+		getDriver().get("https://charging-dev.vidaworld.com/Account/Login");
 
 		LoginPage lp = new LoginPage(getDriver());
 		lp.passLoginId(username);
