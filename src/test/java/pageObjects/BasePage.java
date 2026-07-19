@@ -20,6 +20,10 @@ public class BasePage {
 
 	public BasePage(WebDriver driver) {
 		
+		// I am learning github
+		
+		System.out.println("Hello");		
+		
 		this.driver = driver;
 		this.log = LogManager.getLogger(this.getClass());
 		this.wait = new WebDriverWait(driver, Duration.ofSeconds(10));

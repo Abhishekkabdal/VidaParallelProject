@@ -11,7 +11,7 @@
 	<test name="ChromeTest">
 		<parameter name="browser" value="chrome" />
 		<parameter name="username" value="Abhishek" />
-		<parameter name="password" value="Vida@123" />
+		<parameter name="password" value="Kabdwal@1234" />
 		<classes>
 			<class name="testCases.TC05_RoamingSession" />
 			<class name="testCases.TC04_Permissions" />
@@ -22,7 +22,7 @@
 	<test name="EdgeTest">
 		<parameter name="browser" value="edge" />
 		<parameter name="username" value="Automatic" />
-		<parameter name="password" value="Automatic@123" />
+		<parameter name="password" value="Automatic@1234" />
 		<classes>
 			<class name="testCases.TC02_BetaLogs" />
 			<class name="testCases.TC04_Permissions" />
